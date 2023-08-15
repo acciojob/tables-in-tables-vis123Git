@@ -1,2 +1,13 @@
 
-/* Your CSS Code here. */
+td{
+	border:1px solid black;
+}
+
+caption {
+	font-weight : bold;
+}
+
+table {
+	height :100%;
+	width : 100%;
+}
